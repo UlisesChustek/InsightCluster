@@ -1,7 +1,7 @@
 pandas
 scikit-learn
 joblib
-matplotlib
-seaborn
 plotly
-streamlit
+streamlit>=1.35.0
+numpy
+matplotlib
